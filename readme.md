@@ -30,6 +30,7 @@ bewise_test_task-python-1   | INFO:     Uvicorn running on http://0.0.0.0:8002 (
 
 Данные для доступа к PostgreSQL Adminer.
 (Можно отредактировать в db_config.py)
+
 | Поле | Значение |
 | ------ | ------ |
 | Движок | PostgreSQL |
