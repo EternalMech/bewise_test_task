@@ -1,0 +1,7 @@
+sqlalchemy==2.0.22
+sqlalchemy_utils==0.41.1
+aiohttp==3.8.6
+pydantic==2.4.2
+fastapi==0.103.2
+psycopg2==2.9.9
+uvicorn==0.23.2
